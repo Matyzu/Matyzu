@@ -100,22 +100,22 @@
 
 <p align="center">
   <a href="https://github.com/MatyZu">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatyZu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/MatyZu">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatyZu&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatyZu&theme=dark&hide_border=true"/>
 </p>
 
 ## 💳 Profile Summary
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solo-microsorf&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatyZu&theme=github_dark)
 
 </div>
 
@@ -125,7 +125,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=solo-microsorf&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com?user=MatyZu&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
@@ -133,7 +133,7 @@
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=solo-microsorf&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatyZu&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -141,7 +141,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=solo-microsorf&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=MatyZu&layout=compact&theme=radical)
 
 </div>
 
@@ -151,7 +151,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=solo-microsorf&theme=onedark&no-frame=true&margin-w=4&margin-h=4)
+![](https://github-profile-trophy.vercel.app/?username=MatyZu&theme=onedark&no-frame=true&margin-w=4&margin-h=4)
 
 </div>
 
@@ -159,11 +159,15 @@
 
 ## 🧠 About Me
 
-- 💻 Full Stack Developer (en formación o nivel actual)
-- ⚙️ Desarrollo de aplicaciones en C#
-- 🌐 Desarrollo web (HTML, CSS, JS, backend básico)
-- 🔧 Uso de herramientas como Git y GitHub
-- 📱 Proyectos personales y sistemas de automatización
+💻 Desarrollador Full Stack en formación
+
+⚙️ Desarrollo de aplicaciones con C#
+
+🌐 Desarrollo web (HTML, CSS, JavaScript y SQL)
+
+🔧 Git, GitHub y Visual Studio
+
+🚀 Creando proyectos y aprendiendo nuevas tecnologías
 
 ---
 
@@ -171,16 +175,18 @@
 
 <div align="center">
 
-<a href="mailto:TU_CORREO_AQUI"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/TU_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="mailto:matiaszulesacosta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/matias-zules-3a2325365/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://wa.me/593963172493">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
 <h5 align="center">
-سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
+   I love technology 
 </h5>
 
 ---
