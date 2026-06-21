@@ -121,53 +121,9 @@
 
 ---
 
-## ⏱ GitHub Streak
-
-<div align="center">
-
-[![](https://github-readme-streak-stats.herokuapp.com?user=MatyZu&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatyZu&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📊 Most Used Languages
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=MatyZu&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=MatyZu&theme=onedark&no-frame=true&margin-w=4&margin-h=4)
-
-</div>
-
----
-
-## 🧠 About Me
-
-💻 Desarrollador Full Stack en formación
-
-⚙️ Desarrollo de aplicaciones con C#
-
-🌐 Desarrollo web (HTML, CSS, JavaScript y SQL)
-
-🔧 Git, GitHub y Visual Studio
-
-🚀 Creando proyectos y aprendiendo nuevas tecnologías
 
 ---
 
@@ -186,14 +142,9 @@
 ---
 
 <h5 align="center">
-   I love technology 
+   I love technology 💻🔌
 </h5>
 
 ---
 
-## 📌 Open Source Projects
-(Agrega aquí tus proyectos principales)
-
----
-
-**Credit:** solo-microsorf  
+**Credit:** ⭐ Developed by Matías Zules
