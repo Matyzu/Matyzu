@@ -130,13 +130,16 @@
 ## 📌 Featured Projects
 
 ### 🏢 EcoTechServiDesk
-Help Desk desarrollado en C#, Windows Forms y SQLite.
+Web system for managing a computer maintenance shop focused on eco-friendly practices.  
+Built with HTML, CSS, JavaScript and SQLite for data storage and management.
 
 ### 🤖 WhatsApp Task Bot
-Bot para gestión de tareas mediante WhatsApp y Node.js.
+Automation bot for task management through WhatsApp messages.  
+Developed using Node.js with message handling and task scheduling logic.
 
 ### 🌐 Portfolio Website
-Sitio web personal para mostrar proyectos y experiencia.
+Personal portfolio website to showcase projects, skills, and experience.  
+Built with HTML, CSS and JavaScript with responsive design.
 
 ---
 
