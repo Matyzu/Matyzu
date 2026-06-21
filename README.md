@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Matyzu.visitor-badge&left_text=visitors&logo=github">
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=MatyZu.visitor-badge&left_text=visitors&logo=github">
 </p>
 
 ---
@@ -22,7 +22,7 @@
 * 💻 Software Developer focused on Web Development and C#
 * 🚀 Building web applications, automation tools and desktop software
 * ⚡ Electronics enthusiast working with Arduino, ESP32 and embedded systems
-* 💡 Interested in Full Stack Development, Software Architecture and Databases
+* 💡 Interested in Software Development, Web Technologies and Databases
 * 🌱 Continuously learning and improving my programming skills
 
 ---
@@ -127,6 +127,19 @@
 
 ---
 
+## 📌 Featured Projects
+
+### 🏢 EcoTechServiDesk
+Help Desk desarrollado en C#, Windows Forms y SQLite.
+
+### 🤖 WhatsApp Task Bot
+Bot para gestión de tareas mediante WhatsApp y Node.js.
+
+### 🌐 Portfolio Website
+Sitio web personal para mostrar proyectos y experiencia.
+
+---
+
 ## 🔗 Contacto
 
 <div align="center">
@@ -146,5 +159,3 @@
 </h5>
 
 ---
-
-**Credit:** ⭐ Developed by Matías Zules
